@@ -63,6 +63,7 @@ Used in:
 ---
 
 ## Project Structure
+``
 Cryptography-Algorithms-Implementation/
 │
 ├── aes_encryption.py
@@ -70,7 +71,7 @@ Cryptography-Algorithms-Implementation/
 ├── sha_hashing.py
 ├── requirements.txt
 └── README.md
-
+``
 ---
 
 ## Installation
@@ -116,5 +117,5 @@ Through this project, I learned:
 ---
 
 ## Author
-Name: Anirudha G Kulkarni
+Name: Anirudha G Kulkarni \
 Domain: Cybersecurity 
