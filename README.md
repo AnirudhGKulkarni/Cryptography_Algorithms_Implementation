@@ -63,7 +63,7 @@ Used in:
 ---
 
 ## Project Structure
-``
+```
 Cryptography-Algorithms-Implementation/
 │
 ├── aes_encryption.py
@@ -71,7 +71,7 @@ Cryptography-Algorithms-Implementation/
 ├── sha_hashing.py
 ├── requirements.txt
 └── README.md
-``
+```
 ---
 
 ## Installation
